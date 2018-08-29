@@ -1,0 +1,21 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:latest
+    volumes:
+      - ogden-postgres-data:/var/lib/postgres
+    environment:
+      POSTGRES_USER: __USER__
+      POSTGRES_PASSWORD: __PASSWD__
+  web:
+    build: .
+    ports:
+      - 3080:80
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - postgres
+    environment:
+      DATABASE_URL: __URL__
+volumes:
+  ogden-postgres-data:

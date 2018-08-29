@@ -1,0 +1,477 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Ogden Trivia\n"
+"Language: fr\n"
+
+#: Controller/AnswersController.php:58;84
+msgid "The answer has been saved."
+msgstr "La réponse a été enregistrée."
+
+#: Controller/AnswersController.php:62;88
+msgid "The answer could not be saved. Please, try again."
+msgstr "La réponse n'a pas pu être enregistrée. Veuillez réessayer."
+
+#: Controller/AnswersController.php:106
+msgid "The answer has been deleted."
+msgstr "La réponse a été supprimée."
+
+#: Controller/AnswersController.php:108
+msgid "The answer could not be deleted. Please, try again."
+msgstr "La réponse n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/CategoriesController.php:58;83
+msgid "The category has been saved."
+msgstr "La catégorie a été enregistrée."
+
+#: Controller/CategoriesController.php:62;87
+msgid "The category could not be saved. Please, try again."
+msgstr "La catégorie n'a pas pu être enregistrée. Veuillez réessayer."
+
+#: Controller/CategoriesController.php:105
+msgid "The category has been deleted."
+msgstr "La catégorie a été supprimée."
+
+#: Controller/CategoriesController.php:107
+msgid "The category could not be deleted. Please, try again."
+msgstr "La catégorie n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/QuestionsController.php:63;88
+msgid "The question has been saved."
+msgstr "La question a été enregistrée."
+
+#: Controller/QuestionsController.php:67;92
+msgid "The question could not be saved. Please, try again."
+msgstr "La question n'a pas pu être enregistrée. Veuillez réessayer."
+
+#: Controller/QuestionsController.php:110
+msgid "The question has been deleted."
+msgstr "La question a été supprimée."
+
+#: Controller/QuestionsController.php:112
+msgid "The question could not be deleted. Please, try again."
+msgstr "La question n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/TipsController.php:58;83
+msgid "The tip has been saved."
+msgstr "L'indice a été enregistré."
+
+#: Controller/TipsController.php:62;87
+msgid "The tip could not be saved. Please, try again."
+msgstr "L'indice n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/TipsController.php:105
+msgid "The tip has been deleted."
+msgstr "L'indice a été supprimé."
+
+#: Controller/TipsController.php:107
+msgid "The tip could not be deleted. Please, try again."
+msgstr "L'indice n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Template/Answers/add.ctp:9
+#: Template/Answers/edit.ctp:9
+#: Template/Answers/index.ctp:9;26
+#: Template/Answers/view.ctp:9;59
+#: Template/Categories/add.ctp:9
+#: Template/Categories/edit.ctp:9
+#: Template/Categories/index.ctp:9;26
+#: Template/Categories/view.ctp:9;71;104
+#: Template/Questions/add.ctp:9
+#: Template/Questions/edit.ctp:9
+#: Template/Questions/index.ctp:9;30
+#: Template/Questions/view.ctp:9;61;91
+#: Template/Tips/add.ctp:9
+#: Template/Tips/edit.ctp:9
+#: Template/Tips/index.ctp:9;25
+#: Template/Tips/view.ctp:9
+msgid "Actions"
+msgstr "Actions"
+
+#: Template/Answers/add.ctp:10;13
+#: Template/Answers/edit.ctp:16;19
+#: Template/Answers/view.ctp:12;16
+#: Template/Questions/add.ctp:13
+#: Template/Questions/edit.ctp:19
+#: Template/Questions/index.ctp:13
+#: Template/Questions/view.ctp:16
+msgid "List Answers"
+msgstr "Liste des Réponses"
+
+#: Template/Answers/add.ctp:11
+#: Template/Answers/edit.ctp:17
+#: Template/Answers/index.ctp:11
+#: Template/Answers/view.ctp:14
+#: Template/Categories/add.ctp:13
+#: Template/Categories/edit.ctp:19
+#: Template/Categories/index.ctp:11
+#: Template/Categories/view.ctp:18
+#: Template/Questions/add.ctp:10
+#: Template/Questions/edit.ctp:16
+#: Template/Questions/view.ctp:12
+#: Template/Tips/add.ctp:11
+#: Template/Tips/edit.ctp:17
+#: Template/Tips/index.ctp:11
+#: Template/Tips/view.ctp:14
+msgid "List Questions"
+msgstr "Liste des Questions"
+
+#: Template/Answers/add.ctp:12
+#: Template/Answers/edit.ctp:18
+#: Template/Answers/index.ctp:12
+#: Template/Answers/view.ctp:15
+#: Template/Categories/add.ctp:14
+#: Template/Categories/edit.ctp:20
+#: Template/Categories/index.ctp:12
+#: Template/Categories/view.ctp:19
+#: Template/Questions/index.ctp:10
+#: Template/Questions/view.ctp:13
+#: Template/Tips/add.ctp:12
+#: Template/Tips/edit.ctp:18
+#: Template/Tips/index.ctp:12
+#: Template/Tips/view.ctp:15
+msgid "New Question"
+msgstr "Nouvelle Question"
+
+#: Template/Answers/add.ctp:14
+#: Template/Answers/edit.ctp:20
+#: Template/Answers/index.ctp:10
+#: Template/Answers/view.ctp:13;17
+#: Template/Questions/add.ctp:14
+#: Template/Questions/edit.ctp:20
+#: Template/Questions/index.ctp:14
+#: Template/Questions/view.ctp:17
+msgid "New Answer"
+msgstr "Nouvelle Réponse"
+
+#: Template/Answers/add.ctp:20
+msgid "Add Answer"
+msgstr "Ajouter un Réponse"
+
+#: Template/Answers/add.ctp:27
+#: Template/Answers/edit.ctp:33
+#: Template/Categories/add.ctp:27
+#: Template/Categories/edit.ctp:33
+#: Template/Questions/add.ctp:29
+#: Template/Questions/edit.ctp:35
+#: Template/Tips/add.ctp:24
+#: Template/Tips/edit.ctp:30
+msgid "Submit"
+msgstr "Envoyer"
+
+#: Template/Answers/edit.ctp:11
+#: Template/Answers/index.ctp:41
+#: Template/Answers/view.ctp:72
+#: Template/Categories/edit.ctp:11
+#: Template/Categories/index.ctp:41
+#: Template/Categories/view.ctp:86;117
+#: Template/Questions/edit.ctp:11
+#: Template/Questions/index.ctp:45
+#: Template/Questions/view.ctp:74;103
+#: Template/Tips/edit.ctp:11
+#: Template/Tips/index.ctp:39
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Answers/edit.ctp:13
+#: Template/Answers/index.ctp:41
+#: Template/Answers/view.ctp:11;72
+#: Template/Categories/edit.ctp:13
+#: Template/Categories/index.ctp:41
+#: Template/Categories/view.ctp:11;86;117
+#: Template/Questions/edit.ctp:13
+#: Template/Questions/index.ctp:45
+#: Template/Questions/view.ctp:11;74;103
+#: Template/Tips/edit.ctp:13
+#: Template/Tips/index.ctp:39
+#: Template/Tips/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Êtes-vous sûr de vouloir supprimer # {0} ?"
+
+#: Template/Answers/edit.ctp:26
+#: Template/Answers/view.ctp:10
+msgid "Edit Answer"
+msgstr "Modifier la Réponse"
+
+#: Template/Answers/index.ctp:16
+msgid "Answers"
+msgstr "Réponses"
+
+#: Template/Answers/index.ctp:39
+#: Template/Answers/view.ctp:70
+#: Template/Categories/index.ctp:39
+#: Template/Categories/view.ctp:84;115
+#: Template/Questions/index.ctp:43
+#: Template/Questions/view.ctp:72;101
+#: Template/Tips/index.ctp:37
+msgid "View"
+msgstr "Voir"
+
+#: Template/Answers/index.ctp:40
+#: Template/Answers/view.ctp:71
+#: Template/Categories/index.ctp:40
+#: Template/Categories/view.ctp:85;116
+#: Template/Questions/index.ctp:44
+#: Template/Questions/view.ctp:73;102
+#: Template/Tips/index.ctp:38
+msgid "Edit"
+msgstr "Modifier"
+
+#: Template/Answers/index.ctp:49
+#: Template/Categories/index.ctp:49
+#: Template/Questions/index.ctp:53
+#: Template/Tips/index.ctp:47
+msgid "first"
+msgstr "premier"
+
+#: Template/Answers/index.ctp:50
+#: Template/Categories/index.ctp:50
+#: Template/Questions/index.ctp:54
+#: Template/Tips/index.ctp:48
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Answers/index.ctp:52
+#: Template/Categories/index.ctp:52
+#: Template/Questions/index.ctp:56
+#: Template/Tips/index.ctp:50
+msgid "next"
+msgstr "suivant"
+
+#: Template/Answers/index.ctp:53
+#: Template/Categories/index.ctp:53
+#: Template/Questions/index.ctp:57
+#: Template/Tips/index.ctp:51
+msgid "last"
+msgstr "dernier"
+
+#: Template/Answers/index.ctp:55
+#: Template/Categories/index.ctp:55
+#: Template/Questions/index.ctp:59
+#: Template/Tips/index.ctp:53
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} sur {{pages}}, {{current}} enregistrement(s) affiché(s) sur {{count}}"
+
+#: Template/Answers/view.ctp:11
+msgid "Delete Answer"
+msgstr "Supprimer la Réponse"
+
+#: Template/Answers/view.ctp:24;54
+#: Template/Questions/view.ctp:56;87
+#: Template/Tips/view.ctp:22
+msgid "Content"
+msgstr "Contenu"
+
+#: Template/Answers/view.ctp:28
+#: Template/Tips/view.ctp:26
+msgid "Question"
+msgstr "Question"
+
+#: Template/Answers/view.ctp:32;53
+#: Template/Categories/view.ctp:38;63;98
+#: Template/Questions/view.ctp:34;55;86
+#: Template/Tips/view.ctp:30
+msgid "Id"
+msgstr "Id"
+
+#: Template/Answers/view.ctp:36;56
+#: Template/Questions/view.ctp:58
+msgid "Answer Id"
+msgstr "Id Réponse"
+
+#: Template/Answers/view.ctp:40;57
+#: Template/Categories/view.ctp:50;69;102
+#: Template/Questions/view.ctp:42;59;89
+#: Template/Tips/view.ctp:34
+msgid "Created"
+msgstr "Créé(e)"
+
+#: Template/Answers/view.ctp:44;58
+#: Template/Categories/view.ctp:54;70;103
+#: Template/Questions/view.ctp:46;60;90
+#: Template/Tips/view.ctp:38
+msgid "Modified"
+msgstr "Modifié(e)"
+
+#: Template/Answers/view.ctp:49
+#: Template/Questions/view.ctp:51
+msgid "Related Answers"
+msgstr "Réponses associées"
+
+#: Template/Answers/view.ctp:55
+#: Template/Questions/view.ctp:57;88
+msgid "Question Id"
+msgstr "Id Question"
+
+#: Template/Categories/add.ctp:10
+#: Template/Categories/edit.ctp:16
+#: Template/Categories/view.ctp:12
+#: Template/Questions/add.ctp:11
+#: Template/Questions/edit.ctp:17
+#: Template/Questions/index.ctp:11
+#: Template/Questions/view.ctp:14
+msgid "List Categories"
+msgstr "Liste des Catégories"
+
+#: Template/Categories/add.ctp:11
+#: Template/Categories/edit.ctp:17
+#: Template/Categories/view.ctp:14
+msgid "List Parent Categories"
+msgstr "Liste des Catégories Parentes"
+
+#: Template/Categories/add.ctp:12
+#: Template/Categories/edit.ctp:18
+#: Template/Categories/view.ctp:15
+msgid "New Parent Category"
+msgstr "Nouvelle Catégorie Parente"
+
+#: Template/Categories/add.ctp:20
+msgid "Add Category"
+msgstr "Ajouter une Catégorie"
+
+#: Template/Categories/edit.ctp:26
+#: Template/Categories/view.ctp:10
+msgid "Edit Category"
+msgstr "Modifier une Catégorie"
+
+#: Template/Categories/index.ctp:10
+#: Template/Categories/view.ctp:13
+#: Template/Questions/add.ctp:12
+#: Template/Questions/edit.ctp:18
+#: Template/Questions/index.ctp:12
+#: Template/Questions/view.ctp:15
+msgid "New Category"
+msgstr "Nouvelle Catégorie"
+
+#: Template/Categories/index.ctp:16
+msgid "Categories"
+msgstr "Catégories"
+
+#: Template/Categories/view.ctp:11
+msgid "Delete Category"
+msgstr "Supprimer la Catégorie"
+
+#: Template/Categories/view.ctp:16
+msgid "List Child Categories"
+msgstr "Liste des Catégories Enfantes"
+
+#: Template/Categories/view.ctp:17
+msgid "New Child Category"
+msgstr "Nouvelle Catégorie Enfante"
+
+#: Template/Categories/view.ctp:26
+msgid "Parent Category"
+msgstr "Catégorie Parente"
+
+#: Template/Categories/view.ctp:30;67
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Categories/view.ctp:34;68
+msgid "Description"
+msgstr "Description"
+
+#: Template/Categories/view.ctp:42;65
+msgid "Lft"
+msgstr "Gch"
+
+#: Template/Categories/view.ctp:46;66
+msgid "Rght"
+msgstr "Drt"
+
+#: Template/Categories/view.ctp:59
+msgid "Related Categories"
+msgstr "Catégories Associées"
+
+#: Template/Categories/view.ctp:64
+msgid "Parent Id"
+msgstr "Id Parent"
+
+#: Template/Categories/view.ctp:94
+msgid "Related Questions"
+msgstr "Questions Associées"
+
+#: Template/Categories/view.ctp:99
+#: Template/Questions/view.ctp:26
+msgid "Title"
+msgstr "Titre"
+
+#: Template/Categories/view.ctp:100
+#: Template/Questions/view.ctp:38
+msgid "Points"
+msgstr "Points"
+
+#: Template/Categories/view.ctp:101
+msgid "Category Id"
+msgstr "Id Catégorie"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erreur"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Retour"
+
+#: Template/Questions/add.ctp:15
+#: Template/Questions/edit.ctp:21
+#: Template/Questions/index.ctp:15
+#: Template/Questions/view.ctp:18
+#: Template/Tips/add.ctp:10
+#: Template/Tips/edit.ctp:16
+#: Template/Tips/view.ctp:12
+msgid "List Tips"
+msgstr "Liste des Indices"
+
+#: Template/Questions/add.ctp:16
+#: Template/Questions/edit.ctp:22
+#: Template/Questions/index.ctp:16
+#: Template/Questions/view.ctp:19
+#: Template/Tips/index.ctp:10
+#: Template/Tips/view.ctp:13
+msgid "New Tip"
+msgstr "Nouvel Indice"
+
+#: Template/Questions/add.ctp:22
+msgid "Add Question"
+msgstr "Ajouter une Question"
+
+#: Template/Questions/edit.ctp:28
+#: Template/Questions/view.ctp:10
+msgid "Edit Question"
+msgstr "Modifier la Question"
+
+#: Template/Questions/index.ctp:20
+msgid "Questions"
+msgstr "Questions"
+
+#: Template/Questions/view.ctp:11
+msgid "Delete Question"
+msgstr "Supprimer la Question"
+
+#: Template/Questions/view.ctp:30
+msgid "Category"
+msgstr "Catégorie"
+
+#: Template/Questions/view.ctp:82
+msgid "Related Tips"
+msgstr "Indices Associés"
+
+#: Template/Tips/add.ctp:18
+msgid "Add Tip"
+msgstr "Ajouter un Indice"
+
+#: Template/Tips/edit.ctp:24
+#: Template/Tips/view.ctp:10
+msgid "Edit Tip"
+msgstr "Modifier l'Indice"
+
+#: Template/Tips/index.ctp:16
+msgid "Tips"
+msgstr "Indices"
+
+#: Template/Tips/view.ctp:11
+msgid "Delete Tip"
+msgstr "Supprimer l'Indice"
